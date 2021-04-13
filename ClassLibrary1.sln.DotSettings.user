@@ -1,0 +1,51 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=216af30d_002D82a7_002D479d_002D8182_002D853d8cce0309/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4de8ac97_002D7d24_002D4e18_002D8015_002D0b864d90a49f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=57f07311_002D5c2b_002D4bd4_002D83ce_002Db3db5f91fab2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cab1a1a_002D3979_002D4e0c_002D9c22_002D9fd1d164d1ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83b1d07a_002Db2f3_002D4ef7_002Db88f_002D358d6c86657c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenderSite_FillFormWithIncorrectEmail_Failure" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.GenderSiteTests.GenderSite_FillFormWithEmail_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92f9f2fb_002D4a72_002D456d_002Db4f3_002Da44f93c7fce3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenderSite_FillFormWithEmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_FillFormWithEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_ClickAnotherEmail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_ClickAnotherEmail_EmailInputIsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_RadiobuttonBoy_GenderIsBoy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_RadiobuttonGirl_GenderIsGirl&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_FillFormWithIncorrectEmail_Failure&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bcb62fe1_002Dc2be_002D439a_002Db616_002D0143a713fb44/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c09bbc1b_002De809_002D4778_002D9d4a_002D9b87497d2f7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ed0283d9_002D609c_002D4b6d_002Dbd88_002D90e563a19967/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ComputerSite_FillFornWithEmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6613779D-E9A7-4BD2-91D3-8D1B466D1623::.NETFramework,Version=v4.7.2::ClassLibrary1.SeleniumTests.GenderSite_FillFormWithEmail_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
