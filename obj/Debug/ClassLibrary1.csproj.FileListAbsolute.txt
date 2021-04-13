@@ -1,0 +1,12 @@
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\chromedriver.exe
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Саша\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
